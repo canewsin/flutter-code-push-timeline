@@ -10,6 +10,9 @@ Open an issue for any query related to this project.
 
 After completion of this project, i will open another repo for tracking bugs for the project.
 
+update :
+Hi guys, some people pointed some interest in code push and i want to know how you was in need for code push for flutter. what i want to you to do is if code push is final product how do you want to use it, i was asking because i want to optimize the functionality of code push, so that initialization work can be done with out lags. Open an issue for each unique requirement, see other issues whether your requirement is covered or not. donot open duplicate issues.
+
 
 ## Progress :
 
