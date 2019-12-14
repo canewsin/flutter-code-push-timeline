@@ -21,6 +21,10 @@ Hi guys, some people pointed some interest in code push and i want to know how y
 
 ### 03-12-2019 :
     - created widget_extensions package as utility package for flutter code push Implementation.
+    
+
+### 14-12-2019 :
+    - Released First Prototype. Try App from Releases. click on Switch Button on AppBar to load Patch.
 
 ## Packages used by the project
    [widget_extensions](https://www.github.com/canewsin/widget_extensions) (needs flutter master still under development contribute if you want to extend it.)
