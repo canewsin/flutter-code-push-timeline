@@ -25,6 +25,9 @@ Hi guys, some people pointed some interest in code push and i want to know how y
 
 ### 14-12-2019 :
     - Released First Prototype. Try App from Releases. click on Switch Button on AppBar to load Patch.
+    - Issue Regarding App Size
+        App Size is 28MB because it contains 2 patches packed in assets folder of flutter, these can be removed and loaded via network,
+        If patches are removed app size will becomes just normal size of starter application.
 
 ## Packages used by the project
    [widget_extensions](https://www.github.com/canewsin/widget_extensions) (needs flutter master still under development contribute if you want to extend it.)
