@@ -1,6 +1,8 @@
 #   Flutter Codepush Timeline
 Progress Report for Flutter Code Push Implementation.
 
+## Currently This Project on HOLD, due other project, but will continue soon, This Warning will be removed when progress resumes, i also don't see enough people have interest over THIS, so will consider this project soon.
+
 This Repo will give progress for implementing Codepush into the Flutter Project.
 
 One thing you should clear about this project is, if it is a success and ready to be usable, code is not going to be open sourced, i will license the keys to individual based on their repo size or project value, implied to minimum license fee. This repo just tracks the progress of implementation Thus no code is uploaded to this repo.
